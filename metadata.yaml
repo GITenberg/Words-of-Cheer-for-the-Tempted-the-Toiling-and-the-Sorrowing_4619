@@ -1,0 +1,32 @@
+_repo: Words-of-Cheer-for-the-Tempted-the-Toiling-and-the-Sorrowing_4619
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arthur, T. S. (Timothy Shay)
+    aliases:
+    - Uncle Herbert
+    - Herbert, Uncle
+    - Arthur, Timothy Shay
+    birthdate: 1809
+    deathdate: 1885
+    gutenberg_agent_id: '1513'
+    url: http://www.gutenberg.org/2009/agents/1513
+    wikipedia: http://en.wikipedia.org/wiki/Timothy_Shay_Arthur
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4619'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Christian life -- Fiction'
+- !lcsh 'Christian life'
+- !lcsh 'Conduct of life'
+- GITenberg
+title: Words of Cheer for the Tempted, the Toiling, and the Sorrowing
+url: http://www.gutenberg.org/ebooks/4619
