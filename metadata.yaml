@@ -1,5 +1,8 @@
 _repo: Words-of-Cheer-for-the-Tempted-the-Toiling-and-the-Sorrowing_4619
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Arthur, T. S. (Timothy Shay)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1513
     wikipedia: http://en.wikipedia.org/wiki/Timothy_Shay_Arthur
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4619#Words-of-Cheer-for-the-Tempted-the-Toiling-and-the-Sorrowing
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
